@@ -1,0 +1,23 @@
+/* SSSB admin style */
+#sssb_horizontal table label {
+	margin-right: 10px;
+}
+
+
+#sssb_horizontal .panel_style {
+	margin-right: 15px;
+    vertical-align: top;
+    margin-top: 17px;
+}
+
+
+#sssb_horizontal .sssb-horizontal {
+	display: block;
+	margin: 0;
+}
+
+
+#sssb_horizontal .sssb-horizontal ul {
+	display: inline-block;
+	margin: 0;
+}
